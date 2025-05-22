@@ -1,0 +1,46 @@
+#home {
+background-color:#deebf7;
+} 
+
+.header{
+	background-color:#deebf7;
+#beach {
+	background-color:#DEE6E9;
+
+}
+img{width:20px} img {height 20px;}
+}
+/*F6CA83
+
+F2D5F8
+
+E6C0E9
+
+C4F5FC
+
+5296A5*/
+
+
+.topnav {
+   background-color: #C9D5DB;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #fcfffd;
+   color: blue;
+}
+
+.topnav a.active {
+   background-color:#A3C5D9;
+   color: white;
+}
